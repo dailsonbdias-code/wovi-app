@@ -1,0 +1,12 @@
+{
+  "name": "wovi-webhook",
+  "version": "1.0.0",
+  "description": "Ponte de teste entre o WhatsApp (BSP) e o Wovi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
